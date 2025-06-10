@@ -12,11 +12,11 @@ document.addEventListener('DOMContentLoaded', function() {
 // Função para inicializar o carrossel
 function initCarousel() {
   const images = [
-    '../img/foto1.jpeg',
-    '../img/foto2.jpeg',
-    '../img/foto3.jpeg',
-    '../img/foto4.jpeg',
-    '../img/foto5.jpeg'
+    '/img/foto1.jpeg',
+    '/img/foto2.jpeg',
+    '/img/foto3.jpeg',
+    '/img/foto4.jpeg',
+    '/img/foto5.jpeg'
   ];
   
   const swiperWrapper = document.querySelector('.swiper-wrapper');
